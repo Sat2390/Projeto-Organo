@@ -1,0 +1,21 @@
+.Rodape{
+    display: flex;
+    justify-content: space-around;
+    background-image: url('/public/imagens/fundo.png');
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    height: 150px;
+    background-color: #6278F7;
+}
+.Conteiner-icons{
+    gap: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 32px;
+
+}
+.logo{
+    height: 70px;
+}
